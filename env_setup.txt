@@ -19,4 +19,19 @@ npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
 
 added 944 packages in 178.795s
 
-D:\sourabh\repos\github\reactjs-redux>
+D:\sourabh\repos\github\reactjs-redux>npm start
+
+> reactjs-redux@1.0.0 prestart D:\sourabh\repos\github\reactjs-redux
+> babel-node tools/startMessage.js
+
+Starting app in dev mode...
+
+> reactjs-redux@1.0.0 start D:\sourabh\repos\github\reactjs-redux
+> babel-node tools/srcServer.js
+
+webpack built 5086aaa6a0e236b874ca in 1624ms
+
+D:\sourabh\repos\github\reactjs-redux>npm start -s
+Starting app in dev mode...
+webpack built 5086aaa6a0e236b874ca in 1655ms
+
