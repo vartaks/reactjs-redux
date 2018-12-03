@@ -35,3 +35,24 @@ D:\sourabh\repos\github\reactjs-redux>npm start -s
 Starting app in dev mode...
 webpack built 5086aaa6a0e236b874ca in 1655ms
 
+D:\sourabh\repos\github\reactjs-redux>npm run lint
+
+> reactjs-redux@1.0.0 lint D:\sourabh\repos\github\reactjs-redux
+> esw webpack.config.* src tools
+
+D:\sourabh\repos\github\reactjs-redux\src\index.js (0/1)
+  !  1:1  Unexpected console statement  no-console
+
+! 1 warning (22:51:23)
+
+D:\sourabh\repos\github\reactjs-redux>npm start -s
+Starting app in dev mode...
+
+webpack built 5086aaa6a0e236b874ca in 1890ms
+
+  1 passing (39ms)
+
+D:\sourabh\repos\github\reactjs-redux\src\index.js (0/1)
+  !  1:1  Unexpected console statement  no-console
+
+! 1 warning (23:19:54)
