@@ -1,1 +1,2 @@
-export default 1000;
+// Set delay of 3 seconds for mock API to return result
+export default 3000;
